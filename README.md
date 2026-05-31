@@ -1,7 +1,8 @@
 # rustico_web - Pagina Web Rustico Coffee Shop
 
 Pagina web desarrollado con **HTML + JavaScript + CSS**
-Disenado para Computadora y Celular
+
+Disenado para Computadora y Celular.
 
 ## Estructura del proyceto
 
