@@ -39,9 +39,9 @@ https://jariojedadev.github.io/rustico-coffee-shop-website/
 <h2 align="center">Preview</h2>
 
 <p align="center">
-  <img src="./Home.png" width="700">
+  <img src="./Home.png" width="600">
 </p>
 
 <p align="center">
-  <img src="./Menu.png" width="700">
+  <img src="./Menu.png" width="600">
 </p>
