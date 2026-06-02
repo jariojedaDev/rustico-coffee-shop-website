@@ -40,8 +40,8 @@ https://jariojedadev.github.io/rustico-coffee-shop-website/
 
 ### Home
 
-![Home](./screenshots/Home.png)
+![Home](./Home.png)
 
 ### Menu
 
-![Menu](./screenshots/Menu.png)
+![Menu](./Menu.png)
