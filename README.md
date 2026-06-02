@@ -1,25 +1,36 @@
-# rustico_web - Pagina Web Rustico Coffee Shop
+# Rustico Coffee Shop Website
 
-Pagina web desarrollado con **HTML + JavaScript + CSS**
+Rustico Coffee Shop is a responsive website developed for a local coffee shop. The project focuses on modern design, accessibility, and user experience across desktop and mobile devices.
 
-Disenado para Computadora y Celular.
+## Technologies
 
-## Estructura del proyceto
+- HTML
+- CSS
+- JavaScript
+
+## Features
+
+- Responsive design for desktop and mobile devices
+- Modern and user-friendly interface
+- Product showcase for drinks, desserts, and food items
+- Image carousel and interactive elements
+
+## Project Structure
 
 ```
 Rustico_Coffee_Shop-main
-├── BEBIDAS                ← Carpetas de imagenes
-├── CARRUSEL   
-├── INICIO      
+├── BEBIDAS                ← Image folders
+├── CARRUSEL
+├── INICIO
 ├── LOGO
 ├── POSTRES
 ├── SALADOS
 │
-├── index.html             ← HTML, Hoja inicio
-├── main.js                ← JavaScript
-└── style.css              ← Hoja de estilos principal
-
+├── index.html             ← Main page
+├── main.js                ← JavaScript functionality
+└── style.css              ← Main stylesheet
 ```
 
-Link de la pagina
+## Live Demo
+
 https://jariojedadev.github.io/rustico-coffee-shop-website/
