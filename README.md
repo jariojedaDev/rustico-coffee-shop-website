@@ -17,7 +17,7 @@ Rustico Coffee Shop is a responsive website developed for a local coffee shop. T
 
 ## Project Structure
 
-```
+```txt
 Rustico_Coffee_Shop-main
 ├── BEBIDAS                ← Image folders
 ├── CARRUSEL
