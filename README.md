@@ -36,12 +36,12 @@ Rustico_Coffee_Shop-main
 https://jariojedadev.github.io/rustico-coffee-shop-website/
 
 
-## Preview
+<h2 align="center">Preview</h2>
 
-### Home
+<p align="center">
+  <img src="./Home.png" width="800">
+</p>
 
-![Home](./Home.png)
-
-### Menu
-
-![Menu](./Menu.png)
+<p align="center">
+  <img src="./Menu.png" width="800">
+</p>
