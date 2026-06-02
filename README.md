@@ -34,3 +34,14 @@ Rustico_Coffee_Shop-main
 ## Live Demo
 
 https://jariojedadev.github.io/rustico-coffee-shop-website/
+
+
+## Preview
+
+### Home
+
+![Home](./screenshots/Home.png)
+
+### Menu
+
+![Menu](./screenshots/Menu.png)
